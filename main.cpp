@@ -394,7 +394,7 @@ pixelArray* Colorise()
   }*/
   return &returnValues;
 }
-]
+//]  I think ] is a mistake. So I modified
 void display_Ima()
 {
 
